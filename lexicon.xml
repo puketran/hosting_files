@@ -4,9 +4,9 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="x-microsoft-sapi" xml:lang="zh-CN">
+      alphabet="ipa" xml:lang="zh-CN">
     <lexeme>
         <grapheme>熊市长</grapheme>
-        <phoneme>x i u ng2 sh i4 zh ang3</phoneme>
+        <phoneme>xióng shì zhǎng</phoneme>
     </lexeme>
 </lexicon>
